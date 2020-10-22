@@ -13,14 +13,14 @@ b = 13
 out2= ""
 # if b is between 10 and 20 set out2 to "Sweet!"
 if 10<b<20:
-    print ("sweet!")
+    out2 = ("sweet!")
 # if less than 10 set out2 to "Less!",
 elif b<10:
-    print("less!")
+    out2 = ("less!")
 # if more than 20 set out2 to "More!"
 elif b>20:
-    print("More!")
-
+    out2 = ("More!")
+print(out2)
 
 
 
@@ -29,17 +29,17 @@ credits = 100
 is_bonus = False
 # if credits are at least 50,
 # and is_bonus is false decrement c by 2
-if credits >= 50 and is_bonus == False:
+# if credits >= 50 and is_bonus == False:
+if credits >= 50 and not is_bonus
     print('c=', c-2)
 
 
 # if credits are smaller than 50,
-elif credits <50 and is_bonus == False:
+elif credits <50 and not is_bonus
     print('c=',c-1)
 # and is_bonus is false decrement c by 1
 # if is_bonus is true c should remain the same
-elif is_bonus == True:
-    print ('c=',c)
+
 
 
 

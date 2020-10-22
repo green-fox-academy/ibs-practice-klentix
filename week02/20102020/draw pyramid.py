@@ -9,6 +9,9 @@
 #
 # The pyramid should have as many lines as the number was
 
-rows = 4
-for i in range(1, rows+2):
-    print("* " * i)
+
+
+
+rows = 6
+for i in range (rows):
+    print (" "*(rows-i-1)+"*"*(rows+2*i-(rows-1)))
