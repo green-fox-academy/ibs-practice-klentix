@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed1f43fe-7ff9-43fb-81fc-30fc13dc247d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/banner.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/test bookmark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/13102020/coding exercise/topography.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/14102020/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/cat1/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/cat2/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/cat3/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/cat4/file4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/cat5/file5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/first-task/css/cssfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/first-task/css/cssfile2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/first-task/images/testimage.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week01/15102020/first-task/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/ i wont cheat on exam.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/20102020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/animal_and_legs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/average_of_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/bmi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/coding hours.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/conditional_variable_mutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/count from to.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/cuboid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/define basic info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/draw diagonal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/draw diamond.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/draw pyramid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/draw square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/draw triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/fav numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/fizz buzz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/guess the number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/hello others.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/hello users.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/humpty-dumpty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/introduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/mile_to_km_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/multiplication table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/odd_even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/one_two_a_lot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/parametric average.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/party_indicator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/print even.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/print_bigger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/seconds_in_a_day.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/substr progress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/swap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/two numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/20102020/variable mutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/22102020/draw chess table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/27102020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/append_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/change_elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/compare_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/diagonal_matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/double_items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/increment_element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/plusone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/print_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/reverse_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/sum_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/sum_elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/swap_elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27102020/third.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/28102020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/anagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/append_a_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/doubling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/factorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/greet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/palindrome_builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/print_param.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28102020/unique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/29102020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/List Introduction 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list introduction 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map introduction 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/map introduction 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal finance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product database 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping list 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_replace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/takes_longer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/telephone book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo_print.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/url_fixer.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jYIcEUB3GzCyOrBxK4pfoCmXmo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../27102020" />
+  </component>
+  <component name="RunManager" selected="Python.match making">
+    <configuration name="match making" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="29102020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/match making.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product database 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="29102020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/product database 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="29102020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping list 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="29102020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/shopping list 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="solar system" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="29102020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/solar system.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.match making" />
+        <item itemvalue="Python.scratch_1" />
+        <item itemvalue="Python.solar system" />
+        <item itemvalue="Python.shopping list 2" />
+        <item itemvalue="Python.product database 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed1f43fe-7ff9-43fb-81fc-30fc13dc247d" name="Default Changelist" comment="" />
+      <created>1603974676385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603974676385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="188" key="FileChooserDialogImpl" timestamp="1604607454543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="188" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604607454543" />
+    <state width="1288" height="216" key="GridCell.Tab.0.bottom" timestamp="1604610780415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1288" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604610780415" />
+    <state width="1288" height="216" key="GridCell.Tab.0.center" timestamp="1604610780414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1288" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604610780414" />
+    <state width="1288" height="216" key="GridCell.Tab.0.left" timestamp="1604610780413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1288" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604610780413" />
+    <state width="1288" height="216" key="GridCell.Tab.0.right" timestamp="1604610780414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1288" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604610780414" />
+    <state x="326" y="218" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604602416098">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="218" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1604602416098" />
+    <state x="326" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1604009230062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="326" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604009230062" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/url_fixer.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/map introduction 2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/product database.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
