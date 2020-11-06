@@ -28,7 +28,9 @@ AliceList = {"Rice":1,
 
 #How much does Bob pay?
 total =sum(shoplist[k]*BobList[k] for k in BobList)
-print("Bob bought: ", total)  #how to ignore value that cannot be look up like 'onion'
+print("Bob bought: ", total)
+#how to ignore value that cannot be look up like 'onion'=> by choosing longer length
+
 
 #How much does Alice pay?
 total2 =sum(AliceList[k]*shoplist[k] for k in AliceList)
@@ -58,3 +60,21 @@ else:
 
 #Who buys more Rice?
 #Who buys more Potato?
+
+def who_buy_more(prod_key):
+    if (prod_key in AliceList.keys() and prod_key in BobList.keys()):
+        if AliceList[prod_key] > BobList[prod_key]:
+            return "Alice"
+        elif AliceList[prod_key] < BobList[prod_key]:
+            return "Bob"
+        else:
+            return "Same amount"
+    elif prod_key not in AliceList.keys() and prod_key in BobList.keys():
+        return "Bob"
+    elif prod_key in AliceList.keys() and prod_key not in BobList.keys():
+        return "Alice"
+    else:
+        return "same"
+
+print ("who buy more rice?", who_buy_more("Rice"))
+print ("who buy more potato?", who_buy_more("Potato"))
