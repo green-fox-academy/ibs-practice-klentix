@@ -14,6 +14,10 @@ def draw_square (size,colors):
     remaining = size/2
     canvas.create_rectangle(center-remaining,center-remaining,center+remaining,center+remaining,fill=colors)
 
+for i in range(len(colors)):
+    draw_square(300/2-i*(150/7),colors[i])
+
+
 # Create a square drawing function that takes 2 parameters:
 
 # The square size, and the fill color,
