@@ -1,12 +1,21 @@
 from fleet import Fleet
 from thing import Thing
 
-class FleetOfThing(Fleet,Thing):
-    def __init__(self):
-        super.__init__()
-        print ("ok")
+fleet = Fleet()
+thing1 =Thing("Get milk")
+thing2 =Thing("Remove the obstacles")
+thing3 =Thing("Stand up")
+thing4 =Thing("Eat lunch")
 
+fleet.add(thing1)
+fleet.add(thing2)
+fleet.add(thing3)
+fleet.add(thing4)
 
+thing3.complete()
+thing4.complete()
+
+print(fleet)
 
 
 
@@ -23,19 +32,3 @@ class FleetOfThing(Fleet,Thing):
 # 3. [x] Stand up
 # 4. [x] Eat lunch
 
-fleet = FleetOfThing()
-
-
-
-fleet.add('Get milk')
-fleet.add('Remove the obstacles')
-fleet.add('Stand up')
-fleet.add('Eat lunch')
-
-tempthing = Thing('Get milk')
-tempthing2 = Thing('Remove the obstacles')
-tempthing3 = Thing('Stand up')
-tempthing4 = Thing('Eat lunch')
-
-print(fleet)
-print(tempthing)

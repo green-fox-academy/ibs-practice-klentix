@@ -19,6 +19,7 @@ def initializePokemons():
         return pokemon
 
 pokemon = initializePokemons()
+print(pokemon)
 
 # Every pokemon has a name and a type.
 # Certain types are effective against others, e.g. water is effective against fire.
@@ -34,14 +35,14 @@ wildPokemon5 = Pokemon ("Kingler", "water", "fire")
 
 my_pok = Pokemon("temp1","temp2","temp3")
 
+
+# Which pokemon should Ash use?
 for pok in pokemon:
     if pok.effectiveAgainst == wildPokemon.type:
         my_pok = pok
-# Which pokemon should Ash use?
-
 print("I choose you, " + my_pok.name )
-print (my_pok.isEffectiveAgainst(wildPokemon))
-print (my_pok.isEffectiveAgainst(wildPokemon2))
-print (my_pok.isEffectiveAgainst(wildPokemon3))
-print (my_pok.isEffectiveAgainst(wildPokemon4))
-print (my_pok.isEffectiveAgainst(wildPokemon5))
+# print (my_pok.isEffectiveAgainst(wildPokemon))
+# print (my_pok.isEffectiveAgainst(wildPokemon2))
+# print (my_pok.isEffectiveAgainst(wildPokemon3))
+# print (my_pok.isEffectiveAgainst(wildPokemon4))
+# print (my_pok.isEffectiveAgainst(wildPokemon5))
