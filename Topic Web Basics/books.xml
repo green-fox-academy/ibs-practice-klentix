@@ -1,0 +1,53 @@
+<productListing title = "My Books">
+    
+        <book1>
+            <name>12 Rules For Life</name>
+            <author>Jordan B Peterson</author>
+            <publicationdate>January 16, 2018</publicationdate>
+            <description>An Antidote to Chaos is a 2018 self-help book by Canadian clinical psychologist 
+                    and psychology professor Jordan Peterson. It provides life advice through essays in abstract ethical principles,
+                    psychology, mythology, religion, and personal anecdotes.</description>
+            <publishername>Random House Canada Penguin Allen Lane (UK)</publishername>
+            <language>english</language>
+            <isbnnumber>9780141988511</isbnnumber>
+            <quote>
+                <quote1>Treat yourself like you are someone you are responsible for helping</quote1>
+                <quote2>Make friends with people who want the best for you</quote2>
+                <quote3>Set your house in perfect order before you criticize the world</quote3>
+            </quote>
+            <bookid>BUK00001</bookid>
+        </book1>
+        <book2>
+            <name>The 48 Laws of Power</name>
+            <author>Robert Greene</author>
+            <publicationdate>1998</publicationdate>
+            <description>The 48 Laws of Power is a non-fiction book, self-help book. And is popular with prison inmates and celebrities.</description>
+            <publishername>Penguin Books</publishername>
+            <language>english</language>
+            <isbnnumber>0-670-88146-5</isbnnumber>
+            <quote>
+                <quote1>Lord, protect me from my friends; I can take care of my enemies.</quote1>
+                <quote2>There is nothing more intoxicating than victory, and nothing more dangerous.</quote2>
+                <quote3>Strike the shepherd and the sheep will scatter</quote3>
+            </quote>
+            <bookid>BUK00002</bookid>
+        </book2>
+        <book3>
+            <name>Nineteen Eighty-Four</name>
+            <author>George Orwell</author>
+            <publicationdate>1949</publicationdate>
+            <description>Nineteen Eighty-Four has become a classic literary example of political and dystopian fiction. 
+                    The story takes place in an imagined future, the year 1984, when much of the world has fallen victim to perpetual war, 
+                    omnipresent government surveillance, historical negationism, and propaganda.</description>
+            <publishername>Secker and Warburg</publishername>
+            <language>english</language>
+            <isbnnumber>9780141391700</isbnnumber>
+            <quote>
+                <quote1>We shall meet in the place where there is no darkness.</quote1>
+                <quote2>If you loved someone, you loved him, and when you had nothing else to give,you still gave him love.</quote2>
+                <quote3>It's a beautiful thing, the destruction of words.</quote3>
+            </quote>
+            <bookid>BUK00003</bookid>
+        </book3>
+    
+</productListing>
